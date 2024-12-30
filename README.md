@@ -15,6 +15,11 @@
     <img width="8" />
 </div><br>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasAlcs/NicolasAlcs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasAlcs/NicolasAlcs/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicolasAlcs/NicolasAlcs/output/github-contribution-grid-snake.svg">
+</picture>
 
  - É justo que muito custe aquilo que muito vale...
 
